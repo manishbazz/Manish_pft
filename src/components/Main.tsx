@@ -16,8 +16,11 @@ function Main() {
             <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Yuji Sato</h1>
-          <p>Full Stack Engineer</p>
+          <h1>Manish Sharma</h1>
+          <p>Bhadwa Madarchod</p>
+          <p>Satyam mera papa hai</p>
+          <p>Mohit mera chacha hai</p>
+          <p>Mai to gandu hu jo yaha aaya</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
