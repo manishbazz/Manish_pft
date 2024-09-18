@@ -2,6 +2,13 @@
     background-color: rgba(0, 0, 0, 0.2);
 }
 
+.profile_pic{
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    object-fit: cover;
+}
+
 .about-section {
     display: flex;
     gap: 30px;
