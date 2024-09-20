@@ -41,7 +41,7 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Full Stack Web Development</h3>
+                    <h3>CAD Design</h3>
                     <p>Solidworks Certified CSWA, I have built many plastic products in the past and simplified models for several FEA and FVM analysis and  have decent GD&T knowledge.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
