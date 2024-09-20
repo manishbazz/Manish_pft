@@ -42,9 +42,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>CAD Design</h3>
-                    <p>Solidworks Certified CSWA, I have built many plastic products in the past and simplified models for several FEA and FVM analysis and  have decent GD&T knowledge.</p>
+                    <p>Solidworks Certified CSWA, I have built many plastic products and have simplified models for several FEA and FVM analysis and  have decent GD&T knowledge.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Mech stack:</span>
                         {labelsFirst.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -53,10 +53,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
-                    <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <h3>FEA and FVM Analysis</h3>
+                    <p>Achieved 100% in the "Computational Analysis" section at Aerothon 2024. Experienced in solving thermal issues using Computational Fluid Dynamics (CFD) and working on turbulence models for airfoils in both subsonic and supersonic regimes.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Mech stack:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -65,10 +65,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Prototyping</h3>
+                    <p>Hands-on experience with prototyping and error identification using technologies like FDM, SLA, and MJF 3D printing. I have also reverse-engineered products from STL files and have a solid understanding of various manufacturing technologies, ensuring designs are optimized for production.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Mech stack:</span>
                         {labelsThird.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
