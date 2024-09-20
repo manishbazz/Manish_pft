@@ -14,18 +14,15 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://github.com/manishbazz" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://www.linkedin.com/in/manish-kumar-sharma-04941a253/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Manish Sharma</h1>
-          <p>Bhadwa Madarchod</p>
-          <p>Satyam mera papa hai</p>
-          <p>Mohit mera chacha hai</p>
-          <p>Mai to gandu hu jo yaha aaya</p>
+          <h1>Manish Kumar Sharma</h1>
+          <p>Mechanical Design Engineer</p>
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://github.com/manishbazz" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://www.linkedin.com/in/manish-kumar-sharma-04941a253/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
       </div>
