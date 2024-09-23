@@ -9,9 +9,9 @@ function Main() {
   return (
     <div className="container">
       <div className="about-section">
-        <div className="image-wrapper">
+        {/* <div className="image-wrapper">
           <img className="profile_pic" src={profile} alt="Avatar" />
-        </div>
+        </div> */}
         <div className="content">
           <div className="social_icons">
             <a href="https://github.com/manishbazz" target="_blank" rel="noreferrer"><GitHubIcon/></a>
