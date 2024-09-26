@@ -17,33 +17,33 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Suparna Drone </h2></a>
+                <a href="https://menthosa.com/products/suparna" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://menthosa.com/products/suparna" target="_blank" rel="noreferrer"><h2>Suparna Drone </h2></a>
                 <p>Designed a drone for menthosa solutions which was supplied to some of well reputed institutes in India, some of the problems I faced here were the overheating, fitting and structural integrity of the drone.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>Drone Charger</h2></a>
+                <a href="https://docs.google.com/document/d/1c86K6fzZKybqeY_gTJ7ihEwocNIKFXn8/edit?usp=drive_link&ouid=100455715208712223028&rtpof=true&sd=true" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://docs.google.com/document/d/1c86K6fzZKybqeY_gTJ7ihEwocNIKFXn8/edit?usp=drive_link&ouid=100455715208712223028&rtpof=true&sd=true" target="_blank" rel="noreferrer"><h2>Drone Charger</h2></a>
                 <p>Made a drone battery charger for the Suparna Drone, one of the thermal problems were the position of the fan, Ansys Icepack was used to figure the best position of the fan.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Diesel Filter Tube Cutting Machine </h2></a>
+                <a href="" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="" target="_blank" rel="noreferrer"><h2>Diesel Filter Tube Cutting Machine </h2></a>
                 <p>A machine was made to smoothly cut section of thick paper tubes that were to be used in a car diesel filter, one of the main problems were how to make a smooth cut and reducing the vibration of the machine.</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Airfoil Shape optimization Using reinforcement model (in progress)</h2></a>
+                <a href="https://docs.google.com/document/d/1TDga0UedJ3nlezBwUNBzgezcxJIn3PHB/edit?usp=sharing&ouid=100455715208712223028&rtpof=true&sd=true" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://docs.google.com/document/d/1TDga0UedJ3nlezBwUNBzgezcxJIn3PHB/edit?usp=sharing&ouid=100455715208712223028&rtpof=true&sd=true" target="_blank" rel="noreferrer"><h2>Airfoil Shape optimization Using reinforcement model (in progress)</h2></a>
                 <p>Shape optimization of a diamond shaped airfoil using ML, the task requires making a high accuracy pressure based CFD model in Ansys Fluent then taking the result (lift to drag coefficient) of the CFD model as a reward and Dimensions of the airfoil as target variables.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>Indoor Drone</h2></a>
+                <a href="" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="" target="_blank" rel="noreferrer"><h2>Indoor Drone</h2></a>
                 <p>Made an indoor drone with obstacle avoidance the main task was to determine the fitting and orientation of the Lidar sensor which was used for obstacle avoidance.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>Aerothon 2024</h2></a>
+                <a href="https://drive.google.com/file/d/15rCEtsd_LoMRu4OLSv74_LjGZ9_NkVVS/view?usp=drive_link" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/15rCEtsd_LoMRu4OLSv74_LjGZ9_NkVVS/view?usp=drive_link" target="_blank" rel="noreferrer"><h2>Aerothon 2024</h2></a>
                 <p>Designed a drone for Aerothon 2024, here’s my computational analysis report which helped my team securing top 5 position in Phase 1(ongoing)</p>
             </div>
            
