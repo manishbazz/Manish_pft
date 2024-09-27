@@ -27,8 +27,8 @@ function Project() {
                 <p>Made a drone battery charger for the Suparna Drone, one of the thermal problems were the position of the fan, Ansys Icepack was used to figure the best position of the fan.</p>
             </div>
             <div className="project">
-                <a href="" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="" target="_blank" rel="noreferrer"><h2>Diesel Filter Tube Cutting Machine </h2></a>
+                <a href="https://docs.google.com/document/d/10m6pc_VpxHwMyxJy8iW_yNePBy_38aR3/edit?usp=drive_link&ouid=100455715208712223028&rtpof=true&sd=true" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://docs.google.com/document/d/10m6pc_VpxHwMyxJy8iW_yNePBy_38aR3/edit?usp=drive_link&ouid=100455715208712223028&rtpof=true&sd=true" target="_blank" rel="noreferrer"><h2>Diesel Filter Tube Cutting Machine </h2></a>
                 <p>A machine was made to smoothly cut section of thick paper tubes that were to be used in a car diesel filter, one of the main problems were how to make a smooth cut and reducing the vibration of the machine.</p>
             </div>
             <div className="project">
@@ -37,8 +37,8 @@ function Project() {
                 <p>Shape optimization of a diamond shaped airfoil using ML, the task requires making a high accuracy pressure based CFD model in Ansys Fluent then taking the result (lift to drag coefficient) of the CFD model as a reward and Dimensions of the airfoil as target variables.</p>
             </div>
             <div className="project">
-                <a href="" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="" target="_blank" rel="noreferrer"><h2>Indoor Drone</h2></a>
+                <a href="https://menthosa.com/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://menthosa.com/" target="_blank" rel="noreferrer"><h2>Indoor Drone</h2></a>
                 <p>Made an indoor drone with obstacle avoidance the main task was to determine the fitting and orientation of the Lidar sensor which was used for obstacle avoidance.</p>
             </div>
             <div className="project">
